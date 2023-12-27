@@ -29,7 +29,7 @@ To run the Homyz website on your local machine, follow these steps:
 1. Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/MubashirAlam89/Homyz-Project.git
+git clone https://github.com/codesayanpalcoder/Real-Estate-Management.git
 ```
 
 2. Change into the project directory:
@@ -56,10 +56,8 @@ The website should now be accessible at http://localhost:3000.
 
 If you would like to contribute to the Homyz project, feel free to submit issues, feature requests, or pull requests on the GitHub repository. Your contributions are highly appreciated!
 
-## Live Demo.
 
-for live demo of Homyz &#128073; <a href="https://homyz-project.vercel.app">click here.</a>
 
 <hr>
 
-made with &#128151; by <a href="https://www.mubashiralam.com">"Mubashir Alam"</a>.
+made with &#128151; by <a href="https://www.mubashiralam.com">"Sayan Pal"</a>.
